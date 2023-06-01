@@ -1,2 +1,6 @@
 today is first day to work
+<<<<<<< HEAD
 today is bad day to die
+=======
+today is first day to die
+>>>>>>> feature/test-conflict
