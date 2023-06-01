@@ -1,8 +1,4 @@
-today is first day to work
-<<<<<<< HEAD
+
 sdfkwjfiuewf
 today is bad day to die
 fdsjhfiduwfhieuwfew
-=======
-today is first day to die
->>>>>>> feature/test-conflict
